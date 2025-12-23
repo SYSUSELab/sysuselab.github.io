@@ -1,7 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: arxiv:2503.18305
-  title: Enhancing LLM-based Code Translation in Repository Context via Triple Knowledge-Augmented
+  title: Evolving Triple Knowledge-Augmented LLMs for Code Translation in Repository
+    Context
   authors:
   - Guangsheng Ou
   - Mingwei Liu
@@ -12,7 +13,7 @@
   - Xin Peng
   - Zibin Zheng
   publisher: arXiv
-  date: '2025-03-28'
+  date: '2025-11-25'
   link: https://arxiv.org/abs/2503.18305
   type: paper
   description: "\u672C\u6587\u63D0\u51FA\u4E86 K3Trans \u6A21\u578B\uFF0C\u4E00\u79CD\
@@ -44,7 +45,7 @@
   - Xin Peng
   - Zibin Zheng
   publisher: arXiv
-  date: '2025-08-19'
+  date: '2025-10-07'
   link: https://arxiv.org/abs/2508.13003
   type: paper
   description: "\u672C\u6587\u4ECB\u7ECD\u4E86 EvolMathEval\uFF0C\u4E00\u4E2A\u901A\
@@ -98,8 +99,9 @@
   - Benchmark
   plugin: sources.py
   file: sources.yaml
-- title: 'KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test
-    Generation'
+- id: arxiv:2511.14224
+  title: 'KTester: Leveraging Domain and Testing Knowledge for More Effective LLM-based
+    Test Generation'
   authors:
   - Anji Li
   - Mingwei Liu
@@ -109,7 +111,9 @@
   - Dekun Dai
   - Yanlin Wang
   - Zibin Zheng
-  date: '2025-01-01'
+  publisher: arXiv
+  date: '2025-11-19'
+  link: https://arxiv.org/abs/2511.14224
   type: paper
   description: "\u672C\u6587\u4ECB\u7ECD\u4E86 KTester\uFF0C\u4E00\u79CD\u5C06\u9879\
     \u76EE\u548C\u6D4B\u8BD5\u77E5\u8BC6\u6CE8\u5165\u5230\u57FA\u4E8E\u5927\u8BED\
@@ -118,9 +122,11 @@
   image: images/KTester-thumbnail.jpg
   buttons:
   - type: website
-    text: Paper (Coming Soon)
+    text: Arxiv Page
+    link: https://arxiv.org/abs/2511.14224
   - type: source
-    text: Code (Coming Soon)
+    text: Code & Dataset
+    link: https://github.com/SYSUSELab/KTester
   tags:
   - Test Generation
   - Unit Testing
@@ -128,15 +134,16 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2411.13990
-  title: Repository-level Code Translation Benchmark Targeting Rust
+  title: 'RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust'
   authors:
   - Guangsheng Ou
   - Mingwei Liu
   - Yuxuan Chen
+  - Yanlin Wang
   - Xin Peng
   - Zibin Zheng
   publisher: arXiv
-  date: '2025-03-28'
+  date: '2025-10-20'
   link: https://arxiv.org/abs/2411.13990
   type: paper
   description: "\u672C\u6587\u63D0\u51FA\u4E86\u4E00\u4E2A\u9488\u5BF9 Rust \u8BED\
@@ -187,5 +194,37 @@
   - Code Search
   - Decoder-only LLM
   - Fine-tuning
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2506.08980
+  title: 'Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance'
+  authors:
+  - Kaifeng He
+  - Mingwei Liu
+  - Chong Wang
+  - Zike Li
+  - Yanlin Wang
+  - Xin Peng
+  - Zibin Zheng
+  publisher: arXiv
+  date: '2025-09-22'
+  link: https://arxiv.org/abs/2506.08980
+  type: paper
+  description: "\u672C\u6587\u4ECB\u7ECD\u4E86 AdaDec\uFF0C\u4E00\u4E2A\u7528\u4E8E\
+    \u5927\u578B\u8BED\u8A00\u6A21\u578B\uFF08LLMs\uFF09\u4EE3\u7801\u751F\u6210\u7684\
+    \u3001\u7531\u4E0D\u786E\u5B9A\u6027\u5F15\u5BFC\u7684\u81EA\u9002\u5E94\u89E3\
+    \u7801\u6846\u67B6\u3002"
+  image: images/paper-AdaDec.jpg
+  buttons:
+  - type: website
+    text: Arxiv Page
+    link: https://arxiv.org/abs/2506.08980
+  - type: source
+    text: Code & Dataset
+    link: https://github.com/SYSUSELab/AdaDec
+  tags:
+  - Code Generation
+  - Adaptive Strategy
+  - Language Model
   plugin: sources.py
   file: sources.yaml
