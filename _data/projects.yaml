@@ -6,6 +6,13 @@
   tags:
     - 网站
 
+- title: DailyLLM4SEPaper
+  subtitle: 🌞智能化软工论文日报
+  image: images/LLM4SEDailyPaper.png
+  link: https://sysuselab.github.io/DailyLLM4SEPaper/
+  description: 每日自动更新 LLM4SE 领域最新论文, 涵盖大模型在软件工程各个方向的应用与研究进展。
+  tags:
+    - 网站
 
 # - title: Cool Dataset
 #   subtitle: a subtitle
