@@ -26,5 +26,6 @@ links:
 本科期间参与过知识驱动的智能化软件工程相关的研究工作，毕设课题为*众包知识增强的类型推断*，这些经历为我后续的科研探索奠定了基础。
 
 我的学术成果如下：  
-[1] Anji Li, Neng Zhang, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng, "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow", FSE 2025.  
-[2] Anji Li, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", ICSE 2026.  
+[1] **Anji Li**, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", ICSE 2026. Available at [https://arxiv.org/abs/2511.14224](https://arxiv.org/abs/2511.14224)
+
+[2] **Anji Li**, Neng Zhang, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng, "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow", FSE 2025. Available at [https://dl.acm.org/doi/10.1145/3715724](https://dl.acm.org/doi/10.1145/3715724) 
