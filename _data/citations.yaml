@@ -100,8 +100,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2511.14224
-  title: 'KTester: Leveraging Domain and Testing Knowledge for More Effective LLM-based
-    Test Generation'
+  title: 'Knowledge Matters: Injecting Project and Testing Knowledge into LLM-based
+    Unit Test Generation'
   authors:
   - Anji Li
   - Mingwei Liu
@@ -112,7 +112,7 @@
   - Yanlin Wang
   - Zibin Zheng
   publisher: arXiv
-  date: '2026-02-09'
+  date: '2026-06-05'
   link: https://arxiv.org/abs/2511.14224
   type: paper
   description: "\u672C\u6587\u4ECB\u7ECD\u4E86 KTester\uFF0C\u4E00\u79CD\u5C06\u9879\
@@ -176,7 +176,7 @@
   - Yanlin Wang
   - Zibin Zheng
   publisher: arXiv
-  date: '2025-09-03'
+  date: '2026-04-23'
   link: https://arxiv.org/abs/2410.22240
   type: paper
   description: "\u672C\u6587\u63A2\u8BA8\u4E86\u4EC5\u89E3\u7801\u5668\uFF08Decoder-Only\uFF09\
@@ -197,7 +197,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2506.08980
-  title: 'Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance'
+  title: 'AdaDec: A Uncertainty-Guided Lookahead Decoding Framework for LLM-Based
+    Code Generation'
   authors:
   - Kaifeng He
   - Mingwei Liu
@@ -207,7 +208,7 @@
   - Xin Peng
   - Zibin Zheng
   publisher: arXiv
-  date: '2026-02-26'
+  date: '2026-04-27'
   link: https://arxiv.org/abs/2506.08980
   type: paper
   description: "\u672C\u6587\u4ECB\u7ECD\u4E86 AdaDec\uFF0C\u4E00\u4E2A\u7528\u4E8E\
