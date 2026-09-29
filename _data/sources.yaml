@@ -138,6 +138,7 @@
 # 论文: Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development: A HarmonyOS Case Study (自动模式, DOI)
 - id: doi:10.1145/3808133
   type: paper
+  publisher: "Proc. ACM Softw. Eng. (FSE 2026)"
   description: "本文提出了 APIKG4SYN，一种利用 API 知识图谱为 HarmonyOS 等低资源框架合成高质量微调数据的方法。"
   image: "images/APIKG4SYN-thumbnail.png"
   buttons:
