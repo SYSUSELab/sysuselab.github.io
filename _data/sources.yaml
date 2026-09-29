@@ -139,6 +139,7 @@
 - id: doi:10.1145/3808133
   type: paper
   description: "本文提出了 APIKG4SYN，一种利用 API 知识图谱合成面向 API 的问答-代码对、无需可执行环境即可构建高质量微调数据的框架，并以 HarmonyOS 为案例验证了其在低资源软件开发场景下的效果。"
+  image: "images/APIKG4SYN-thumbnail.png"
   buttons:
     - type: website
       text: "ACM DL / DOI Page"
@@ -154,6 +155,7 @@
 - id: arxiv:2607.10621
   type: paper
   description: "本文提出了 WebDesignIter，一种面向仓库级前端代码生成、协同演化设计知识的框架。"
+  image: "images/WebDesignIter-thumbnail.png"
   buttons:
     - type: website
       text: "Arxiv Page"
