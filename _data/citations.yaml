@@ -229,3 +229,62 @@
   - Language Model
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3808133
+  title: 'Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development:
+    A HarmonyOS Case Study'
+  authors:
+  - Mingwei Liu
+  - Zheng Pei
+  - Yanlin Wang
+  - Zihao Wang
+  - Zikang Li
+  - Enci Lin
+  - Xin Peng
+  - Zibin Zheng
+  publisher: Proceedings of the ACM on Software Engineering
+  date: '2026-06-30'
+  link: https://doi.org/hckt3f
+  type: paper
+  description: "\u672C\u6587\u63D0\u51FA\u4E86 APIKG4SYN\uFF0C\u4E00\u79CD\u5229\u7528\
+    \ API \u77E5\u8BC6\u56FE\u8C31\u5408\u6210\u9762\u5411 API \u7684\u95EE\u7B54\
+    -\u4EE3\u7801\u5BF9\u3001\u65E0\u9700\u53EF\u6267\u884C\u73AF\u5883\u5373\u53EF\
+    \u6784\u5EFA\u9AD8\u8D28\u91CF\u5FAE\u8C03\u6570\u636E\u7684\u6846\u67B6\uFF0C\
+    \u5E76\u4EE5 HarmonyOS \u4E3A\u6848\u4F8B\u9A8C\u8BC1\u4E86\u5176\u5728\u4F4E\u8D44\
+    \u6E90\u8F6F\u4EF6\u5F00\u53D1\u573A\u666F\u4E0B\u7684\u6548\u679C\u3002"
+  buttons:
+  - type: website
+    text: ACM DL / DOI Page
+    link: https://doi.org/10.1145/3808133
+  tags:
+  - API Knowledge Graph
+  - Data Synthesis
+  - Domain Code Generation
+  - HarmonyOS
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2607.10621
+  title: 'WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End
+    Code Generation'
+  authors:
+  - Zheng Pei
+  - Mingwei Liu
+  - Zhenxi Chen
+  - Zihao Wang
+  - Yanlin Wang
+  publisher: arXiv
+  date: '2026-07-14'
+  link: https://arxiv.org/abs/2607.10621
+  type: paper
+  description: "\u672C\u6587\u63D0\u51FA\u4E86 WebDesignIter\uFF0C\u4E00\u79CD\u9762\
+    \u5411\u4ED3\u5E93\u7EA7\u524D\u7AEF\u4EE3\u7801\u751F\u6210\u3001\u534F\u540C\
+    \u6F14\u5316\u8BBE\u8BA1\u77E5\u8BC6\u7684\u6846\u67B6\u3002"
+  buttons:
+  - type: website
+    text: Arxiv Page
+    link: https://arxiv.org/abs/2607.10621
+  tags:
+  - Front-End Code Generation
+  - Design Knowledge
+  - Repository-Level
+  plugin: sources.py
+  file: sources.yaml
