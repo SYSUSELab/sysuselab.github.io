@@ -135,6 +135,35 @@
     - Language Model
 
 # ------------------------------------------------------------------
+# 论文: Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development: A HarmonyOS Case Study (自动模式, DOI)
+- id: doi:10.1145/3808133
+  type: paper
+  description: "本文提出了 APIKG4SYN，一种利用 API 知识图谱合成面向 API 的问答-代码对、无需可执行环境即可构建高质量微调数据的框架，并以 HarmonyOS 为案例验证了其在低资源软件开发场景下的效果。"
+  buttons:
+    - type: website
+      text: "ACM DL / DOI Page"
+      link: "https://doi.org/10.1145/3808133"
+  tags:
+    - API Knowledge Graph
+    - Data Synthesis
+    - Domain Code Generation
+    - HarmonyOS
+
+# ------------------------------------------------------------------
+# 论文: WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation (自动模式)
+- id: arxiv:2607.10621
+  type: paper
+  description: "本文提出了 WebDesignIter，一种面向仓库级前端代码生成、协同演化设计知识的框架。"
+  buttons:
+    - type: website
+      text: "Arxiv Page"
+      link: "https://arxiv.org/abs/2607.10621"
+  tags:
+    - Front-End Code Generation
+    - Design Knowledge
+    - Repository-Level
+
+# ------------------------------------------------------------------
 # 留一个手动模式的例子，假设没有 Arxiv ID
 # 注意：由于没有 id，我们需要手动提供 title 和 authors 等核心信息
 # - title: "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation"
